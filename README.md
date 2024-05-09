@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @CharanNara
-- 👀 I’m interested in Web Development
-- 🌱 I’m currently learning DSA
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me - charannara2000@gmail.com, https://www.linkedin.com/in/charan-nara-940568183/
+- 👀 I’m interested in Data Science
+- 🌱 I’m currently pursuing my Masters in Computer Science (Course Track: Artificial Intelligence and Machine Learning)
+- 📫 How to reach me - charannara2000@gmail.com, https://www.linkedin.com/in/charankumarnara/
 
 <!---
 CharanNara/CharanNara is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
