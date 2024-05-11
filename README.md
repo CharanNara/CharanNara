@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @CharanNara
-- 👀 I’m interested in Data Science
+- 👀 I’m interested in Data Science internships
 - 🌱 I’m currently pursuing my Masters in Computer Science (Course Track: Artificial Intelligence and Machine Learning)
 - 📫 How to reach me - charannara2000@gmail.com, https://www.linkedin.com/in/charankumarnara/
 
