@@ -2,11 +2,13 @@
 
 # Hi there! 👋 I'm Charan
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00D9FF&center=true&vCenter=true&random=false&width=600&lines=Software%20Engineer%20crafting%20scalable%20solutions%20with%20cloud-native%20technologies%20%26%20AI)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00D9FF&center=true&vCenter=true&random=false&width=1000&lines=Software%20Engineer%20focused%20on%20distributed%20systems%20and%20backend%20engineering)](https://git.io/typing-svg)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/charankumarnara)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/CharanNara)
+[![Portfolio](https://img.shields.io/badge/Portfolio-0A0A0A?style=for-the-badge&logo=vercel&logoColor=white)](https://charankumarnara.vercel.app)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:charangrad2325@gmail.com)
+
+
 
 ![Profile Views](https://komarev.com/ghpvc/?username=CharanNara&color=00d9ff&style=for-the-badge)
 
@@ -25,7 +27,7 @@ Software Engineer with expertise in designing and implementing scalable web serv
 ## 🛠️ Tech Stack
 
 ### 💻 Programming Languages
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white) ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c&logoColor=white) ![C#](https://img.shields.io/badge/C#-239120?style=for-the-badge&logo=c&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white) ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 
 ### 🎨 Frontend Development
 ![React.js](https://img.shields.io/badge/Reactjs-61DAFB?style=for-the-badge&logo=reactjavascript&logoColor=white) ![Next.js](https://img.shields.io/badge/Nextjs-000000?style=for-the-badge&logo=nextjavascript&logoColor=white) ![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white) ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
@@ -58,9 +60,9 @@ Software Engineer with expertise in designing and implementing scalable web serv
 
 ## 📚 Currently Learning
 
-- 🔭 Advanced AWS Services 
-- 🔭 LLM Fine-tuning, Agentic AI & RAG architectures
-- 🔭 Distributed Systems at Scale
+- 🔭 Advanced AWS patterns for scalability, resilience, and cost optimization
+- 🔭 Designing and operating distributed systems at scale 
+- 🔭 Production-grade LLM integration and RAG system architecture
 
 ---
 
